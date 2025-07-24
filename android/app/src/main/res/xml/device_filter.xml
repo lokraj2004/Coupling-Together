@@ -1,0 +1,4 @@
+<resources>
+    <!-- Match any USB device -->
+    <usb-device />
+</resources>
