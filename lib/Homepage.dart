@@ -153,7 +153,7 @@ class _HomePageState extends State<HomePage> {
                     _buildCard(context, Icons.wifi, 'Wi-Fi', () {
                       _showDevelopmentSnackbar(context);
                     }),
-                    _buildCard(context, Icons.wifi, 'Wi-Fi', () {
+                    _buildCard(context, Icons.bluetooth, 'Bluetooth', () {
                       _showDevelopmentSnackbar(context);
                     }),
                     _buildCard(context, Icons.devices, 'Manage Paired Devices', () {
